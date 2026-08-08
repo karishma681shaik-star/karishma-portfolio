@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { FaGithub, FaLinkedin, FaJava } from 'react-icons/fa6';
 import { SiReact, SiNodedotjs, SiMongodb, SiExpress } from 'react-icons/si';
-import { ArrowRight, Mail, Sparkles, Terminal, Code2, Globe } from 'lucide-react';
+import { ArrowRight, Mail, Sparkles, Terminal, Globe } from 'lucide-react';
 import { HeroCanvas } from '../3d/HeroCanvas';
 import { personalInfo } from '../../data/portfolioData';
 
